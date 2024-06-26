@@ -1,1 +1,1 @@
-Hello Core !
+Hello Core
