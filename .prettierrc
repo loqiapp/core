@@ -1,0 +1,17 @@
+{
+    "printWidth": 100,
+    "tabWidth": 4,
+    "useTabs": false,
+    "semi": false,
+    "trailingComma": "all",
+    "singleQuote": false,
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "htmlWhitespaceSensitivity": "css",
+    "endOfLine": "auto",
+    "ignore": [
+        "node_modules",
+        "dist",
+        "build"
+    ]
+}

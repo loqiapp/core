@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "allowJs": true,
+        "checkJs": true,
+        "outDir": "dist",
+        "rootDir": "src",
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "baseUrl": ".",
+        "paths": {
+            "~/*": ["src/*"]
+        }
+    },
+    "files": ["src/app.ts"]
+}
