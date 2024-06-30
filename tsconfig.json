@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
         "target": "ESNext",
+        "module": "ESNext",
         "allowJs": true,
         "checkJs": true,
         "outDir": "dist",
@@ -13,5 +14,6 @@
             "~/*": ["src/*"]
         }
     },
-    "files": ["src/app.ts"]
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
 }
